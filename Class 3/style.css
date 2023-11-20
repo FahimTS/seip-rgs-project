@@ -1,0 +1,125 @@
+.professional h2{
+    border-bottom: 1px solid #b4ce45;
+    padding-bottom: 4px;
+    font-size: 26px;
+    color: #3E4FA1;
+}
+.input_holder span {font-size: 18px;color: #635454;margin-right: 25px;}
+
+.input_holder p {
+    font-size: 18px;
+    margin-bottom: 8px;
+    color: #635454;
+}
+
+.input_holder select {border: 1px solid #b4ce45;padding: 5px;}
+
+.input_holder {
+    margin-bottom: 15px;
+}
+
+input{
+    border: 1px solid #b4ce45;
+    padding: 5px;
+}
+.input_holder_up span {
+    display: block;
+}
+
+.input_holder_up input {
+    border: none;
+}
+
+.input_holder_up {
+    margin-bottom: 20px;
+}
+.input_holder_flex{
+    display: flex;
+    width: 100%;
+}
+.employed-block{
+    display: flex;
+}
+.input_holder label {
+    display: block;
+}
+.input_holder_flex label {
+    display: block;
+}
+.seip_form {
+    width: 685px;
+}
+
+.input_holder {
+    width: 685px;
+}
+
+.input_holder input {
+    width: 265px;
+}
+
+.input_holder_flex input {
+    width: 190px;
+    margin-right: 30px;
+}
+.seip_form {
+    width: 685px;
+}
+
+.input_holder {
+    width: 685px;
+}
+
+.input_holder input {
+    width: 265px;
+}
+
+.input_holder_flex input {
+    width: 190px;
+    margin-right: 30px;
+    margin-bottom: 9px;
+}
+
+.em_right label {
+    display: block;
+}
+
+.em_left {
+    width: 234px;
+}
+
+.em_right input {
+    width: 190px;
+}
+h3 {
+    font-size: 22px;
+    color: #999;
+    border-bottom: 1px solid #999;
+}
+
+.input_holder_flex label {
+    margin-bottom: 4px;
+}
+.holder_three select {
+    border: 1px solid #b4ce45;
+    width: 199px;
+    padding: 5px;
+}
+.reset_btn{
+    background: #6c6960;
+    border: none;
+    padding: 5px 20px;
+    color: #fff;
+    cursor: pointer;
+    font-weight: 700;
+    margin-right: 15px;
+}
+.sub_btn{
+    background: none repeat scroll 0 0 #B4CE45;
+    border: none;
+    padding: 5px 15px;
+    color: #464646;
+    cursor: pointer;
+    font-weight: 700;
+    margin-right: 15px;
+}
